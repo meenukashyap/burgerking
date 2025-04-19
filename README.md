@@ -13,6 +13,8 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
 </p>
 
+<h3 align="center><a href=""><strong>Want to see live preview</strong></a></h3>
+
 ## Home Page
 
  ![home page](https://github.com/meenukashyap/burgerking/blob/13f759e5e114dda8a6dbdd1b8b886522c1d4a2ab/80cd7d1e-2d6d-4541-906d-052f275e0f04.jpg)
