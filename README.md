@@ -1,5 +1,5 @@
 <h1>Burger King</h1>
-<h2>Food Delivery Food</h2>
+<h2>Food Delivery Website</h2>
 
 ## Home Page
 
