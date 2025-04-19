@@ -1,6 +1,6 @@
 <h1 align="center">Burger King</h1>
 
-<h3 align="center"> It's frontend website with using HTML5,CSS3.</h3>
+<h3 align="center"> It's frontend website using with HTML5,CSS3.</h3>
 
 <br />
 
